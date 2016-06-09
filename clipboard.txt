@@ -1,1 +1,0 @@
-http://stackoverflow.com/questions/444673/sql-use-results-of-a-query-as-basis-for-two-other-queries-in-one-statement/444740#444740
